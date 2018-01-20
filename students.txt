@@ -40,3 +40,5 @@
 1780285/1 	Georgiou, Antria 	antria.georgiou@kcl.ac.uk 	Current 	Computing And Security 	
 1781357/1 	Alotaibi, Sara Aydh S 	sara.alotaibi@kcl.ac.uk 	Current 	Computing And Security 	
 1783087/1 	Vaddiraju, Nagarjuna 	nagarjuna.vaddiraju@kcl.ac.uk 	Current 	Advanced Software Engineering 	
+1335062/1 	Manolache, Andrei 	andrei.manolache@kcl.ac.uk 	Current 	Intelligent Systems 	
+1331498/1 	Stampelos, Stamatios 	stamatios.stampelos@kcl.ac.uk 	Current 	Computing and Security 	
