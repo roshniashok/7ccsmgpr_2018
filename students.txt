@@ -33,7 +33,6 @@
 1769308/1 	Panchavati Ramakrishna, Srinath 	srinath.panchavati_ramakrishna@kcl.ac.uk 	Current 	Computing And Security 	
 1770922/1 	Bari, Aadam Ali 	aadam.bari@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
 1771090/1 	Orazgulyyev, Suleyman 	suleyman.orazgulyyev@kcl.ac.uk 	Current 	Advanced Software Engineering 	
-1771754/1 	Au Yeung, Ka Hang Jacky 	ka_hang_jacky.au_yeung@kcl.ac.uk 	Current 	Computing And Security 	
 1777334/1 	Ni, Bowen 	bowen.ni@kcl.ac.uk 	Current 	Computing And Internet Systems 	
 1778999/1 	Alkhoory, Ahmad Sameer 	ahmad.alkhoory@kcl.ac.uk 	Current 	Computing And Security 	
 1779457/1 	Yasin, Maryam 	maryam.yasin@kcl.ac.uk 	Current 	Advanced Software Engineering 	
