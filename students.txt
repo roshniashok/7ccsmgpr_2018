@@ -2,7 +2,6 @@
 1425704/1 	Mankani Vinod, Hitesh 	hitesh.mankani_vinod@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
 1445445/2 	Moraby, Suhaila Rebecca 	suhaila.moraby@kcl.ac.uk 	Current 	Computing And Security 	
 1659677/2 	Yan, Yuwei 	yuwei.yan@kcl.ac.uk 	Current 	Computing And Internet Systems 	
-1677449/1 	Hashani, Gentrit 	gentrit.hashani@kcl.ac.uk 	Withdrawn 	Computing And Security 	
 1703177/1 	Zhang, Shiyu 	shiyu.1.zhang@kcl.ac.uk 	Current 	Computing And Security 	
 1708522/2 	Fang, Shichao 	shichao.fang@kcl.ac.uk 	Current 	Advanced Software Engineering 	
 1708540/1 	Liu, Mengmeng 	mengmeng.liu@kcl.ac.uk 	Current 	Advanced Software Engineering 	
