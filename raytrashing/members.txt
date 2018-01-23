@@ -4,4 +4,3 @@
 1729975/1 	Köhler, Sebastian Klaus 	sebastian.koehler@kcl.ac.uk 	Current 	Computing And Security 	
 1331498/1 	Stampelos, Stamatios 	stamatios.stampelos@kcl.ac.uk 	Current 	Computing and Security 
 1764644/1 	Saghab Gandomabadi, Farhad 	farhad.saghab_gandomabadi@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
-1760040/1 	Mann, Pavandeep Singh 	pavandeep.mann@kcl.ac.uk 	Withdrawn 	Advanced Software Engineering 	
