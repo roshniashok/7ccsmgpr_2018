@@ -2,7 +2,6 @@
 1425704/1 	Mankani Vinod, Hitesh 	hitesh.mankani_vinod@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
 1445445/2 	Moraby, Suhaila Rebecca 	suhaila.moraby@kcl.ac.uk 	Current 	Computing And Security 	
 1659677/2 	Yan, Yuwei 	yuwei.yan@kcl.ac.uk 	Current 	Computing And Internet Systems 	
-1677449/1 	Hashani, Gentrit 	gentrit.hashani@kcl.ac.uk 	Withdrawn 	Computing And Security 	
 1703177/1 	Zhang, Shiyu 	shiyu.1.zhang@kcl.ac.uk 	Current 	Computing And Security 	
 1708522/2 	Fang, Shichao 	shichao.fang@kcl.ac.uk 	Current 	Advanced Software Engineering 	
 1708540/1 	Liu, Mengmeng 	mengmeng.liu@kcl.ac.uk 	Current 	Advanced Software Engineering 	
@@ -24,7 +23,6 @@
 1755110/1 	Ashokkumar, Roshini 	roshini.ashokkumar@kcl.ac.uk 	Current 	Computing And Internet Systems 	
 1756850/1 	Alkhamra, Othman Bader 	othman.alkhamra@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
 1759482/2 	Chou, Nien-Tsu 	nien-tsu.chou@kcl.ac.uk 	Current 	Advanced Software Engineering 	
-1760040/1 	Mann, Pavandeep Singh 	pavandeep.mann@kcl.ac.uk 	Withdrawn 	Advanced Software Engineering 	
 1761002/1 	Omdah, Mohammad Abdullah 	mohammad.omdah@kcl.ac.uk 	Current 	Computing And Security 	
 1762870/1 	Ke, Jiaming 	jiaming.ke@kcl.ac.uk 	Current 	Intelligent Systems 	
 1764644/1 	Saghab Gandomabadi, Farhad 	farhad.saghab_gandomabadi@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
@@ -33,10 +31,11 @@
 1769308/1 	Panchavati Ramakrishna, Srinath 	srinath.panchavati_ramakrishna@kcl.ac.uk 	Current 	Computing And Security 	
 1770922/1 	Bari, Aadam Ali 	aadam.bari@kcl.ac.uk 	Current 	Advanced Software Engineering With Management 	
 1771090/1 	Orazgulyyev, Suleyman 	suleyman.orazgulyyev@kcl.ac.uk 	Current 	Advanced Software Engineering 	
-1771754/1 	Au Yeung, Ka Hang Jacky 	ka_hang_jacky.au_yeung@kcl.ac.uk 	Current 	Computing And Security 	
 1777334/1 	Ni, Bowen 	bowen.ni@kcl.ac.uk 	Current 	Computing And Internet Systems 	
 1778999/1 	Alkhoory, Ahmad Sameer 	ahmad.alkhoory@kcl.ac.uk 	Current 	Computing And Security 	
 1779457/1 	Yasin, Maryam 	maryam.yasin@kcl.ac.uk 	Current 	Advanced Software Engineering 	
 1780285/1 	Georgiou, Antria 	antria.georgiou@kcl.ac.uk 	Current 	Computing And Security 	
 1781357/1 	Alotaibi, Sara Aydh S 	sara.alotaibi@kcl.ac.uk 	Current 	Computing And Security 	
 1783087/1 	Vaddiraju, Nagarjuna 	nagarjuna.vaddiraju@kcl.ac.uk 	Current 	Advanced Software Engineering 	
+1335062/1 	Manolache, Andrei 	andrei.manolache@kcl.ac.uk 	Current 	Intelligent Systems 	
+1331498/1 	Stampelos, Stamatios 	stamatios.stampelos@kcl.ac.uk 	Current 	Computing and Security 	
